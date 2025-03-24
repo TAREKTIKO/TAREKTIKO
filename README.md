@@ -7,13 +7,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Modern Academy]([http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/](https://mng.modern-academy.edu.eg/))
 <!--- :trophy: 2x `ACPC` Finalist.-->
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love to using my experinces to solve every `Problem`.
 - :computer: I am a competitive programmer at `Html`, `CSS`, `JS`, `C#`, `Sql-server`, `C++`, `Sql-server`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+<!--- :student: I’m currently learning `Computer Science` and `Software Engineering`.-->
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](<!--link-->).
+- :thinking: I’m currently availabe for a new `job opportunity`, this is [MY RESUME](<!--link-->).
 - :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://tarektiko.github.io/TAREK-TIKO/)).
 <br>
 
