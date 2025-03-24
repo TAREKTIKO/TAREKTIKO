@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Tarek Ahmed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Software Enginnering & Web developer </h3>
+<h3 align="center">A Software Engineer & Web Developer </h3>
 
 <!--
 **TAREKTIKO/TAREKTIKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
